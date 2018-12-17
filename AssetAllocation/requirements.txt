@@ -1,0 +1,13 @@
+bs4==0.0.1
+html2text==2018.1.9
+scipy==1.1.0
+seaborn==0.9.0
+numpy==1.15.0
+openpyxl==2.5.4
+pandas==0.23.3
+pandastable==0.10.0
+requests==2.19.1
+matplotlib==2.2.2
+blpapi==3.9.1
+pdblp==0.1.5
+blpapi-3.9.1-cp36-cp36m-win_amd64.whl
